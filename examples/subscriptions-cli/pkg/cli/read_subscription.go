@@ -18,7 +18,7 @@ import (
 	"encoding/json"
 	"io/ioutil"
 
-	telemetryAPI "github.com/capsule8/capsule8/api/v0"
+	telemetryAPI "github.com/Happyholic1203/capsule8/api/v0"
 )
 
 // getSubscriptionsFromJSON takes a json blob and returns it

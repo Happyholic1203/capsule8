@@ -19,7 +19,7 @@ import (
 	"fmt"
 	"time"
 
-	telemetryAPI "github.com/capsule8/capsule8/api/v0"
+	telemetryAPI "github.com/Happyholic1203/capsule8/api/v0"
 )
 
 func convertValue(value *telemetryAPI.Value) (e expr) {

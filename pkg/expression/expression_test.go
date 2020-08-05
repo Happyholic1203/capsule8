@@ -20,7 +20,7 @@ import (
 	"testing"
 	"time"
 
-	telemetryAPI "github.com/capsule8/capsule8/api/v0"
+	telemetryAPI "github.com/Happyholic1203/capsule8/api/v0"
 
 	"github.com/golang/protobuf/ptypes/timestamp"
 	"github.com/stretchr/testify/assert"

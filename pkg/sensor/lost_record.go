@@ -14,7 +14,7 @@
 
 package sensor
 
-import "github.com/capsule8/capsule8/pkg/sys/perf"
+import "github.com/Happyholic1203/capsule8/pkg/sys/perf"
 
 // LostRecordType represents the type of a lost record.
 type LostRecordType int

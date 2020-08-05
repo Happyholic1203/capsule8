@@ -17,7 +17,7 @@ package main
 import (
 	"os"
 
-	"github.com/capsule8/capsule8/examples/subscriptions-cli/pkg/cli"
+	"github.com/Happyholic1203/capsule8/examples/subscriptions-cli/pkg/cli"
 )
 
 func main() {

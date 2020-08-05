@@ -72,9 +72,9 @@ import (
 	"unicode"
 	"unsafe"
 
-	"github.com/capsule8/capsule8/pkg/expression"
-	"github.com/capsule8/capsule8/pkg/sys/proc"
-	"github.com/capsule8/capsule8/pkg/sys/proc/procfs"
+	"github.com/Happyholic1203/capsule8/pkg/expression"
+	"github.com/Happyholic1203/capsule8/pkg/sys/proc"
+	"github.com/Happyholic1203/capsule8/pkg/sys/proc/procfs"
 	"github.com/golang/glog"
 
 	"golang.org/x/sys/unix"

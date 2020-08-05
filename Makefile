@@ -1,5 +1,5 @@
 # Go import path of this repo
-PKG=github.com/capsule8/capsule8
+PKG=github.com/Happyholic1203/capsule8
 REPO=$(shell basename $(shell readlink -f .))
 
 #

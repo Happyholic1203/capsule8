@@ -17,7 +17,7 @@ package sensor
 import (
 	"fmt"
 
-	"github.com/capsule8/capsule8/pkg/expression"
+	"github.com/Happyholic1203/capsule8/pkg/expression"
 )
 
 // ChargenEventTypes defines the field types that can be used with filters on

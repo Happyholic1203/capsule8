@@ -22,8 +22,8 @@ import (
 	"os/signal"
 	"strings"
 
-	"github.com/capsule8/capsule8/pkg/sensor"
-	"github.com/capsule8/capsule8/pkg/sys/perf"
+	"github.com/Happyholic1203/capsule8/pkg/sensor"
+	"github.com/Happyholic1203/capsule8/pkg/sys/perf"
 
 	"github.com/golang/glog"
 )

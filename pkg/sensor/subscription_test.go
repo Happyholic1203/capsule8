@@ -18,8 +18,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/capsule8/capsule8/pkg/expression"
-	"github.com/capsule8/capsule8/pkg/sys/perf"
+	"github.com/Happyholic1203/capsule8/pkg/expression"
+	"github.com/Happyholic1203/capsule8/pkg/sys/perf"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

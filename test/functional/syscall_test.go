@@ -18,8 +18,8 @@ import (
 	"syscall"
 	"testing"
 
-	telemetryAPI "github.com/capsule8/capsule8/api/v0"
-	"github.com/capsule8/capsule8/pkg/expression"
+	telemetryAPI "github.com/Happyholic1203/capsule8/api/v0"
+	"github.com/Happyholic1203/capsule8/pkg/expression"
 	"github.com/golang/glog"
 	"github.com/golang/protobuf/ptypes/wrappers"
 )

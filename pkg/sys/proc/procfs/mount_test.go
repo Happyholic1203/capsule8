@@ -17,7 +17,7 @@ package procfs
 import (
 	"testing"
 
-	"github.com/capsule8/capsule8/pkg/sys/proc"
+	"github.com/Happyholic1203/capsule8/pkg/sys/proc"
 
 	"github.com/stretchr/testify/assert"
 )

@@ -17,8 +17,8 @@ package main
 import (
 	"flag"
 
-	"github.com/capsule8/capsule8/pkg/sensor"
-	"github.com/capsule8/capsule8/pkg/version"
+	"github.com/Happyholic1203/capsule8/pkg/sensor"
+	"github.com/Happyholic1203/capsule8/pkg/version"
 )
 
 func main() {

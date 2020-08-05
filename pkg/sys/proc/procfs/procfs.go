@@ -25,7 +25,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/capsule8/capsule8/pkg/sys/proc"
+	"github.com/Happyholic1203/capsule8/pkg/sys/proc"
 
 	"github.com/golang/glog"
 )

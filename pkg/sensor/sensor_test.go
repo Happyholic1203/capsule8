@@ -26,9 +26,9 @@ import (
 	"testing"
 	"unsafe"
 
-	"github.com/capsule8/capsule8/pkg/expression"
-	"github.com/capsule8/capsule8/pkg/sys/perf"
-	"github.com/capsule8/capsule8/pkg/sys/proc/procfs"
+	"github.com/Happyholic1203/capsule8/pkg/expression"
+	"github.com/Happyholic1203/capsule8/pkg/sys/perf"
+	"github.com/Happyholic1203/capsule8/pkg/sys/proc/procfs"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

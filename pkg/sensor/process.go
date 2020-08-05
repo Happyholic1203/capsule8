@@ -33,10 +33,10 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/capsule8/capsule8/pkg/config"
-	"github.com/capsule8/capsule8/pkg/expression"
-	"github.com/capsule8/capsule8/pkg/sys"
-	"github.com/capsule8/capsule8/pkg/sys/perf"
+	"github.com/Happyholic1203/capsule8/pkg/config"
+	"github.com/Happyholic1203/capsule8/pkg/expression"
+	"github.com/Happyholic1203/capsule8/pkg/sys"
+	"github.com/Happyholic1203/capsule8/pkg/sys/perf"
 
 	"github.com/golang/glog"
 	"golang.org/x/sys/unix"

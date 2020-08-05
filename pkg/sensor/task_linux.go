@@ -19,7 +19,7 @@ import (
 	"sync"
 	"syscall"
 
-	"github.com/capsule8/capsule8/pkg/sys/proc"
+	"github.com/Happyholic1203/capsule8/pkg/sys/proc"
 )
 
 // Return the kernel's notion of pid, which is the current task id

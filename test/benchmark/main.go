@@ -28,13 +28,13 @@ import (
 	"golang.org/x/sys/unix"
 	"google.golang.org/grpc"
 
-	telemetryAPI "github.com/capsule8/capsule8/api/v0"
-	sensorConfig "github.com/capsule8/capsule8/pkg/config"
-	"github.com/capsule8/capsule8/pkg/sensor"
-	"github.com/capsule8/capsule8/pkg/services"
+	telemetryAPI "github.com/Happyholic1203/capsule8/api/v0"
+	sensorConfig "github.com/Happyholic1203/capsule8/pkg/config"
+	"github.com/Happyholic1203/capsule8/pkg/sensor"
+	"github.com/Happyholic1203/capsule8/pkg/services"
 	"github.com/golang/glog"
 
-	"github.com/capsule8/capsule8/pkg/version"
+	"github.com/Happyholic1203/capsule8/pkg/version"
 )
 
 var config struct {

@@ -17,7 +17,7 @@
 package sensor
 
 import (
-	"github.com/capsule8/capsule8/pkg/sys/proc"
+	"github.com/Happyholic1203/capsule8/pkg/sys/proc"
 )
 
 func reportTaskStructFields(_ proc.FileSystem) (int32, int32, int64) {

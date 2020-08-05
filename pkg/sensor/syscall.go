@@ -19,9 +19,9 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/capsule8/capsule8/pkg/expression"
-	"github.com/capsule8/capsule8/pkg/sys"
-	"github.com/capsule8/capsule8/pkg/sys/perf"
+	"github.com/Happyholic1203/capsule8/pkg/expression"
+	"github.com/Happyholic1203/capsule8/pkg/sys"
+	"github.com/Happyholic1203/capsule8/pkg/sys/perf"
 
 	"github.com/golang/glog"
 )

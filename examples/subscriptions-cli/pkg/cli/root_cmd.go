@@ -22,7 +22,7 @@ import (
 	"os"
 	"os/signal"
 
-	telemetryAPI "github.com/capsule8/capsule8/api/v0"
+	telemetryAPI "github.com/Happyholic1203/capsule8/api/v0"
 
 	"github.com/spf13/cobra"
 	"google.golang.org/grpc"

@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/capsule8/capsule8/pkg/expression"
+	"github.com/Happyholic1203/capsule8/pkg/expression"
 )
 
 // TickerEventTypes defines the field types that can be used with filters on

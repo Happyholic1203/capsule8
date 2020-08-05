@@ -20,7 +20,7 @@ import (
 	"os"
 	"syscall"
 
-	telemetryAPI "github.com/capsule8/capsule8/api/v0"
+	telemetryAPI "github.com/Happyholic1203/capsule8/api/v0"
 )
 
 func fileTestDataMap() (map[string]*telemetryAPI.FileEvent, error) {

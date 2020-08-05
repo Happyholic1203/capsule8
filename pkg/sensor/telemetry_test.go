@@ -22,11 +22,11 @@ import (
 	"testing"
 	"time"
 
-	telemetryAPI "github.com/capsule8/capsule8/api/v0"
+	telemetryAPI "github.com/Happyholic1203/capsule8/api/v0"
 
-	"github.com/capsule8/capsule8/pkg/config"
-	"github.com/capsule8/capsule8/pkg/expression"
-	"github.com/capsule8/capsule8/pkg/sys/perf"
+	"github.com/Happyholic1203/capsule8/pkg/config"
+	"github.com/Happyholic1203/capsule8/pkg/expression"
+	"github.com/Happyholic1203/capsule8/pkg/sys/perf"
 
 	"github.com/golang/protobuf/ptypes/wrappers"
 
