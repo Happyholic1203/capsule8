@@ -42,7 +42,7 @@ client, and target container as described below.
 ### Checkout latest code
 
 ```
-$ git clone https://github.com/capsule8/capsule8.git
+$ go get -v github.com/capsule8/capsule8
 $ git submodule init && git submodule update
 ```
 
