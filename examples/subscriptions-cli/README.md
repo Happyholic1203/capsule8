@@ -1,6 +1,6 @@
 # Subscriptions-CLI
 
-This is a simple command line utility for subscribing to telemetry events from the [capsule8 sensor](https://github.com/capsule8/capsule8/)
+This is a simple command line utility for subscribing to telemetry events from the [capsule8 sensor](https://github.com/Happyholic1203/capsule8/)
 
 The telemtry cli takes one argument: a path to a subscription file. Subscriptions are a high level object used by clients to the telemetry service
 in the sensor for receiving telemetry events. These files are simply subscription structs marshalled to JSON. The subscriptions directory

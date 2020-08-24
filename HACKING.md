@@ -11,8 +11,8 @@ $ make ci
 docker run -it --rm \
 	-e DOCKER_API_VERSION= \
 	-v /var/run/docker.sock:/var/run/docker.sock \
-	-v /home/dino/src/github.com/capsule8/capsule8:/home/dino/src/github.com/capsule8/capsule8 \
-	--workdir /home/dino/src/github.com/capsule8/capsule8 \
+	-v /home/dino/src/github.com/Happyholic1203/capsule8:/home/dino/src/github.com/Happyholic1203/capsule8 \
+	--workdir /home/dino/src/github.com/Happyholic1203/capsule8 \
 	circleci/picard \
 	circleci build
 ====>> Spin up Environment

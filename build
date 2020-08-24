@@ -15,7 +15,7 @@
 # limitations under the License.
 
 CAPSULE8_DIR="$(git rev-parse --show-toplevel)"
-WORK_DIR="/go/src/github.com/capsule8/capsule8"
+WORK_DIR="/go/src/github.com/Happyholic1203/capsule8"
 MAKE_STR="make -j4"
 
 if [ -z "${VERSION}" ]; then

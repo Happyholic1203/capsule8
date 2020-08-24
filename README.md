@@ -6,11 +6,10 @@ containers, and traditional Linux-based servers. This repository
 contains the open-source core of the Capsule8-Sensor, which is based on KProbes.
 It also contains example Sensor API client code.
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/capsule8/capsule8)](https://goreportcard.com/report/github.com/capsule8/capsule8)
-[![GoDoc](https://godoc.org/github.com/capsule8/capsule8?status.svg)](https://godoc.org/github.com/capsule8/capsule8)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/capsule8/capsule8/blob/master/LICENSE)
+[![GoDoc](https://godoc.org/github.com/Happyholic1203/capsule8?status.svg)](https://godoc.org/github.com/Happyholic1203/capsule8)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/Happyholic1203/capsule8/blob/master/LICENSE)
 
-[![Build status](https://badge.buildkite.com/3699f0aa9a68fde246250dc3615b2bfa5f1792c81e7291f864.svg?master)](https://buildkite.com/capsule8/capsule8)
+[![Build status](https://badge.buildkite.com/3699f0aa9a68fde246250dc3615b2bfa5f1792c81e7291f864.svg?master)](https://buildkite.com/Happyholic1203/capsule8)
 
 ## Status
 
@@ -42,7 +41,7 @@ client, and target container as described below.
 ### Checkout latest code
 
 ```
-$ go get -v github.com/capsule8/capsule8
+$ go get -v github.com/Happyholic1203/capsule8
 $ git submodule init && git submodule update
 ```
 
